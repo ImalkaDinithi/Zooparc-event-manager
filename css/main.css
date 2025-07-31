@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.center {
+  margin: auto;
+  width: 40% !important;
+  padding: 10px;
+}
